@@ -1,4 +1,5 @@
 # NongPrae_API
-![pharita](https://github.com/NongPrae/NongPrae_API/assets/174101526/6c9873eb-6ffb-45ab-b404-5f8f9aa83b5f)
+![pharita](https://github.com/NongPrae/NongPrae_API/assets/174101526/aa4bb015-e635-4b05-b507-b0be04d21ea7)
+
 
 This is Rafky's project
